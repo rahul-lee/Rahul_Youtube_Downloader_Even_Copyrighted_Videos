@@ -1,10 +1,41 @@
 # YouTube Video Downloader 🎥
 
-A Python-based command-line tool for downloading YouTube videos in various quality formats using yt-dlp.
+A powerful Python-based command-line tool for downloading YouTube videos in various quality formats using yt-dlp.
 
-## 📋 Description
+## 📋 Overview
 
-This project provides an easy-to-use interface for downloading YouTube videos with flexible quality options. Users can list all available formats, download videos in specific resolutions (1080p, 720p, 480p, etc.), extract audio only, or select custom format IDs for precise control over the download quality.
+Since YouTube officially restricted third-party downloading tools and extensions, accessing high-quality video downloads has become challenging. YouTube now requires a Premium subscription to download videos within their app, and most external software solutions demand premium accounts for high-quality downloads. (Tubemate shows ads all the time 😟)
+
+**This Python script provides a free alternative** that enables you to:
+- Download YouTube videos directly in high quality (up to 1080p)
+- Extract audio-only files
+- Choose from multiple quality options without any subscription
+- Its Ads Free!
+- Download videos with a simple, user-friendly command-line interface 
+
+No premium accounts. No subscription fees. Just straightforward video downloading.
+
+## ✨ Key Features
+
+- **Multiple Quality Options**: Download videos in best quality, specific resolutions (1080p, 720p, 480p, 360p, etc.), or by custom format ID
+- **Format Browser**: List all available video/audio formats with detailed specifications (resolution, file size, FPS, codec)
+- **Audio Extraction**: Download audio-only files for music, podcasts, or lectures
+- **Progress Tracking**: Real-time download progress with speed, percentage, and ETA
+- **Smart Merging**: Automatically combines separate video and audio streams into MP4 format using FFmpeg
+- **Interactive Menu**: User-friendly command-line interface with clear options
+- **Robust Error Handling**: Informative error messages and graceful failure recovery
+- **Batch Downloads**: Support for downloading entire playlists (coming soon)
+
+## 🎯 Why Use This Tool?
+
+| Feature | YouTube Premium | Other Tools | This Script |
+|---------|----------------|-------------|-------------|
+| Cost | ₹129-199/month | $5-20/month | **FREE** |
+| Quality | Up to 1080p | Limited | **Up to 1080p** |
+| Audio Only | ✅ | Limited | **✅** |
+| No Account Needed | ❌ | ❌ | **✅** |
+| Open Source | ❌ | ❌ | **✅** |
+
 
 ## ✨ Features
 
