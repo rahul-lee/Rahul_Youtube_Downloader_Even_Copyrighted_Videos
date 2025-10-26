@@ -67,14 +67,33 @@ Progress: 45.2% | Speed: 2.5MiB/s | ETA: 00:15
 
 ## ⚠️ Legal Disclaimer
 
-This tool is for personal use only. Downloading copyrighted content without permission may violate YouTube's Terms of Service and copyright laws. Use responsibly and only download:
-- Your own content
-- Content with appropriate licenses (e.g., Creative Commons)
-- Content where you have explicit permission
+**For Personal/Educational Use Only**
+
+This tool can download copyrighted content, but doing so without permission violates YouTube's Terms of Service and may violate copyright laws. 
+
+**Use Responsibly - Only Download:**
+- ✅ Your own content
+- ✅ Creative Commons licensed content  
+- ✅ Content with explicit owner permission
+- ✅ Public domain content
+
+**The author assumes no liability for misuse. Users are solely responsible for ensuring legal compliance in their jurisdiction.**
+
+Downloading copyrighted material without authorization may result in legal consequences, DMCA takedowns, or account suspension. When in doubt, don't download.
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+
+## 💖 Support the Project
+
+If you find this tool helpful and would like to support its development, consider buying me a coffee!
+
+**UPI ID (India):**  `rahultaker90-5@okhdfcbank`
+
+**Google Pay
+<img width="399" height="396" alt="image" src="https://github.com/user-attachments/assets/6a8d1879-145d-4503-8b9e-f97c0285a9f6" />
+
 
 ## 📄 License
 
